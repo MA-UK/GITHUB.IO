@@ -1,0 +1,22 @@
+#M { 
+    COLOR: grey;
+    font-size: 50px
+       
+
+.M{
+    
+    COLOR:RED; 
+}
+BODY {
+    background-image:URL("55.jpg");
+    background-position: left top
+}
+#M1
+{
+    background-color: #A82828;
+    COLOR:GREY;
+}
+.M2{
+     background-image:URL("London.gif");
+     
+}
