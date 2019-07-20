@@ -1,2 +1,0 @@
-# GITHUB.IO
-S.D.I
